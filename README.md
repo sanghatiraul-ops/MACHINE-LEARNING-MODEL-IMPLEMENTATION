@@ -16,3 +16,4 @@ Machine Learning Model Implementation involves developing a system that can lear
 
 OUTPUT
 
+<img width="1919" height="1013" alt="Image" src="https://github.com/user-attachments/assets/e30b48cb-8dd8-429c-b87c-aff11da79b0b" />
